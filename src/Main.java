@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Hello world! Change 1");
         System.out.println("Hello world! Change 2");
         System.out.println("Hello world! CHange 3");
+        System.out.println("Branch test");
     }
 }
